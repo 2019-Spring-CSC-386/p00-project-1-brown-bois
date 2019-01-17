@@ -10,14 +10,17 @@
 
 In no more than one paragraph, describe the problem your product will solve, and how.
 
+We will develop an embedded system that will calculate the temperature in the morning. Based on the temperature, it will let the user know what type of clothes they should wear. For example, if it's going to be a cold day, user will be recommended to wear big coats. 
+We will use the temperature sensor which will detect the temperature. Then we will use the speaker to output the audio. Code will automatically execute at certain time every morning.
+
 ## Initial Design Plan
 *You'll complete this section as part of Milestone 1, and update regularly.*
 
 Outline the product you're creating:
-- List the hardware components you'll be using, and how they interact. 
-  This is an appropriate place for a diagram. An EXCELLENT resource 
-  for creating diagrams is the [Fritzing website](http://fritzing.org/home/ "Fritzing website")
+- Hardware components we will be using are temperature detector and speaker.
+  
 - List all of the known parts in the code you'll be creating.
+  - calculate temperature and implement correct audio for temeperature in certain ranges. 
   - Your program must follow good coding standards. 
   Primarily, I mean your code should include meaningful functions 
   and appropriate variables, and be formatted and commented well. 
@@ -35,6 +38,8 @@ as projects evolve over time.
 *You'll complete this section as part of Milestone 1.*
 
 List every file in your repository, and briefly summarize each file's purpose in a sentence.
+
+- We have license file, image file, and ReadMe. License file is a copyright file. Image file has an example image. ReadMe has all the instrustion about the embedded system we are developing.
 
 ## Summary
 *You'll complete this part at the end of the project.*
