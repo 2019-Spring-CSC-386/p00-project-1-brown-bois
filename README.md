@@ -1,9 +1,8 @@
 # P00: Project 1
-*Give your project a name and replace the above text with that name.*
 
-**Author(s)**: *Scott Heggen (replace me!)*
+**Author(s)**: Ram Bastola and Nathan Jose
 
-**Google Document**: *Paste the link to your shared Google Document here*
+**Google Document**: https://docs.google.com/document/d/1Nw7GXKbOS2rPyNvu1tcNE7gIDl1i7EjLSspzgxwOBHc/edit?usp=sharing
 
 ---
 ## Purpose
