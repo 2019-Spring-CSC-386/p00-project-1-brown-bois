@@ -75,6 +75,7 @@ as well as celebratory of what was achieved.
 *Start this section at the beginning of the project, and update it throughout.*
 
 http://playground.arduino.cc/Code/Time - Arduino code for finding the time.
+https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor - Code for temperature sensor to behave as a thermometer.
 
 Throughout this project, you'll be used outside resources.
 Reference ALL ideas or code which are not your own, and describe and
