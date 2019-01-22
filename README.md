@@ -22,9 +22,7 @@ Outline the product you're creating:
 - List all of the known parts in the code you'll be creating.
   - calculate temperature and implement correct audio for temeperature in certain ranges. 
   - Your program must follow good coding standards. 
-  Primarily, I mean your code should include meaningful functions 
-  and appropriate variables, and be formatted and commented well. 
-  Sloppy code with no structure will be penalized 
+ 
 
 
 **Sample image**:
@@ -75,6 +73,8 @@ as well as celebratory of what was achieved.
 
 ## References
 *Start this section at the beginning of the project, and update it throughout.*
+
+http://playground.arduino.cc/Code/Time - Arduino code for finding the time.
 
 Throughout this project, you'll be used outside resources.
 Reference ALL ideas or code which are not your own, and describe and
