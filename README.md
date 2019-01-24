@@ -3,7 +3,12 @@
 **Author(s)**: Ram Bastola and Nathan Jose
 
 **Google Document**: https://docs.google.com/document/d/1Nw7GXKbOS2rPyNvu1tcNE7gIDl1i7EjLSspzgxwOBHc/edit?usp=sharing
-
+```diff
+- All help text should be removed. This is a README, which should be your writing only. 
+- How will the system "speak"? Playing an audio file? text to speech translater?
+- Initial design plan is severely lacking detail. No diagram of physical wiring of system. Sample diagram and help text not removed.
+- In your Google doc, your journals did not follow the instructions. Please pay attention to the instructions, particularly since there was lots of discussion around the journal in class as well as very clear instructions directly in the prompt. 
+```
 ---
 ## Purpose
 *You'll complete this section as part of Milestone 1.*
