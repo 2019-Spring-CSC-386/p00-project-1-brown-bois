@@ -42,6 +42,10 @@ This section should be no more than three paragraphs.
 http://playground.arduino.cc/Code/Time - Arduino code for finding the time.
 https://learn.adafruit.com/tmp36-temperature-sensor/using-a-temp-sensor - Code for temperature sensor to behave as a thermometer.
 
+https://steps2make.com/2017/09/text-speech-arduino/     - tried this library to convert text to speech but it didn't work.
+
+https://1sheeld.com/shields/text-to-speech-shield/ --- by looking at example here, we will try on 1Sheeld
+
 
 ## Final Self-Evaluations
 
