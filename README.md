@@ -1,13 +1,13 @@
 # P00: Project 1
 
-**Author(s)**: Ram Bastola and Nathan Jose
+**Author(s)**: Ram Bastola
 
 **Google Document**: https://docs.google.com/document/d/1Nw7GXKbOS2rPyNvu1tcNE7gIDl1i7EjLSspzgxwOBHc/edit?usp=sharing
 
 ---
 ## Purpose
 
-We will develop an embedded system that will calculate the temperature in the morning. Based on the temperature, it will let the user know what type of clothes they should wear. For example, if it's going to be a cold day, user will be recommended to wear big coats. 
+We will develop an embedded system that will calculate the temperature in the morning. 
 We will use the temperature sensor which will detect the temperature. Then we will use the speaker to output the audio. Code will automatically execute at certain time every morning.
 
 ## Initial Design Plan
