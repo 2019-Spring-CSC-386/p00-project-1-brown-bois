@@ -23,7 +23,7 @@
  
 ## Files
 - Emic2 - Folder that contain our main file for code.
-- Imags - Contain images of hardware componets setup and screenshot of Serial Monitor.
+- Images - Contain images of hardware componets setup and screenshot of Serial Monitor.
 - License file - a copyright protection file.
 
 ## Summary
