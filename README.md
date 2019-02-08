@@ -6,20 +6,20 @@
 
 ---
 ## Purpose
-  The first thing I do when I wake up is check the temperature for the day. So, I wanted to build something that could easily output the current temperature measured in both celsius and Fahrenheit. And instead of looking it up on a phone, I wanted a voice output, and a easy way to change the channels of listening the temperature measured in different units.
+- The first thing I do when I wake up is check the temperature for the day. So, I wanted to build something that could easily output the current temperature measured in both celsius and Fahrenheit. And instead of looking it up on a phone, I wanted a voice output, and a easy way to change the channels of listening the temperature measured in different units.
 
 ## Initial Design Plan
 
 - Physical Components:
-    ~TMP36 - Temperature sensor
-    ~Emic2 - convert texts to speech
-    ~speaker - output the voice
-    ~Button - Part of user input that lets the system know user wants to know the temperature
-    ~Switch - switch between Celsius and Fahrenheit
+    - TMP36 - Temperature sensor.
+    - Emic2 - convert texts to speech
+    - speaker - output the voice
+    - Button - Part of user input that lets the system know user wants to know the temperature
+    - Switch - switch between Celsius and Fahrenheit
     
 - Code:
-    ~SoftwareSerial.h - library that connnect Arduino and Emic2
-    ~Emic2.h - Library that handles the voice commands
+    - SoftwareSerial.h - library that connnect Arduino and Emic2
+    - Emic2.h - Library that handles the voice commands
  
 ## Files
 - Emic2 - Folder that contain our main file for code.
