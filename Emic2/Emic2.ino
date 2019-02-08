@@ -1,6 +1,6 @@
 
 /*
-  Edited Example Code from - Author: Joe Grand [www.grandideastudio.com]                                      
+  [www.grandideastudio.com]  //references                                    
   https://www.parallax.com/sites/default/files/downloads/30016-Emic-2-Text-To-Speech-Documentation-v1.2.pdf // learned to use EMIC from this website
 */
 
